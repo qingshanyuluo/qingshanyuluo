@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @qingshanyuluo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hello, I'm qingshanyuluo
 
-<!---
-qingshanyuluo/qingshanyuluo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Architecting the Digital Workforce in Shanghai.**
+
+I am an INTP developer obsessed with the **"Execution Layer"** of Artificial Intelligence. I believe the future lies not just in smarter models, but in models that can *use* computers as humans do.
+
+#### 🔭 Research & Dev Focus
+* **From Text to Action:** Moving beyond RAG to true **Computer Use**—enabling AI to control software, browsers, and terminals.
+* **AIOps Evolution:** Transitioning from rule-based alerts to agentic problem solving.
+* **Efficiency:** Optimizing agent decision-making loops for minimal latency and maximum reliability.
+
+#### 🌱 Activity
+- Building robust **Agentic Workflows**.
+- Exploring the boundaries of **Visual Grounding** in UI automation.
+
+#### 💞️ Collaboration
+Open to deep-dive discussions on **Agent Reliability** and **Pattern Abstraction**.
